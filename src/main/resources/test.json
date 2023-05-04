@@ -1,0 +1,25 @@
+{
+  "Department" : [
+    {
+      "fieldName": "id",
+      "headerName": "ID",
+      "sortIndex": 20,
+      "headerColor": "AQUA"
+    },
+    {
+      "fieldName": "name",
+      "headerName": "Department Name",
+      "sortIndex": 30,
+      "headerColor": "AQUA"
+    },
+    {
+      "fieldName": "code",
+      "headerName": "Department Code",
+      "sortIndex": 40,
+      "headerColor": "AQUA"
+    }
+  ]
+}
+
+
+
